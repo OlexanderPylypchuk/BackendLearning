@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/OlexanderPylypchuk/BackendLearning/issues"
   },
-  "homepage": "https://github.com/OlexanderPylypchuk/BackendLearning#readme"
+  "homepage": "https://github.com/OlexanderPylypchuk/BackendLearning#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
